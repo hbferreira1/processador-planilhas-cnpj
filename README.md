@@ -37,17 +37,6 @@ npm run dev
 npx vercel dev
 ```
 
-## Deploy na Vercel
-
-1. Conecte seu repositório à Vercel
-2. Configure as variáveis de ambiente se necessário
-3. Deploy automático será feito a cada push
-
-Ou use a Vercel CLI:
-```bash
-npx vercel --prod
-```
-
 ## Estrutura do projeto
 
 - `api/upload.js` - API route para processar uploads
